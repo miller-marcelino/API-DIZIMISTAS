@@ -25,4 +25,19 @@ Para mais detalhes sobre como usar cada endpoint, consulte a documentação da A
 
 Se precisar de mais alguma informação ou assistência, não hesite em entrar em contato.
 
+# Front End
+Cadastro de Igrejas
+Este projeto é um sistema web para cadastro de igrejas e dizimistas, desenvolvido como projeto pessoal. Ele permite que usuários realizem o cadastro de suas igrejas, fornecendo informações relevantes sobre a instituição e sobre seus dizimistas. O projeto ainda se encontra em fase de desenvolvimento, mas o objetivo principal é oferecer a todas as igrejas cadastradas um acesso exclussivo onde será possível gerenciar todos seus dizimistas.
+
+Funcionalidades
+Cadastro de igrejas com informações como nome, CNPJ, dados de contato, localização, entre outros.
+Validação de campos no formulário de cadastro, garantindo que as informações fornecidas sejam corretas e completas.
+Listagem de igrejas cadastradas.
+Tecnologias Utilizadas
+HTML
+CSS (Bootstrap)
+JavaScript
+Consumo de API RESTful
+Banco de Dados (Mysql)
+
 
