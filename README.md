@@ -21,6 +21,8 @@ Os endpoints de listagem retornam os dados no formato JSON.
 Os endpoints de deleção retornam um status 200 se a operação for bem-sucedida ou um status 204 se o recurso não for encontrado.
 Lembre-se de configurar corretamente as permissões de acesso e a segurança da sua API, dependendo dos requisitos do seu sistema e do ambiente de produção em que ela será implantada.
 
-Para mais detalhes sobre como usar cada endpoint, consulte a documentação da sua API.
+Para mais detalhes sobre como usar cada endpoint, consulte a documentação da API a mesma já está com a depêndencia do swagger.
 
 Se precisar de mais alguma informação ou assistência, não hesite em entrar em contato.
+
+
